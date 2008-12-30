@@ -1,4 +1,5 @@
-require File.dirname(__FILE__) + '/../dog_catcher.rb'
+require 'rubygems'
+require 'dog_catcher'
 
 d = DogCatcher.new
 
