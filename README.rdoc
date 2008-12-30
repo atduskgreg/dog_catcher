@@ -32,7 +32,7 @@ Witness, an example dog_catcher session:
 
 == INSTALL:
 
-sudo gem dog_catcher
+sudo gem install atduskgreg-dog_catcher
 
 == LICENSE:
 
