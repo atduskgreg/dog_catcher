@@ -12,7 +12,7 @@ Gem::Specification.new do |s|
 		"README.rdoc",
                 "Maifest.txt",
                 "bin/dog_catcher",
-                "lib/dog_catcher.rb"
+                "lib/dog_catcher.rb",
 		"Rakefile", 
 		"dog_catcher.gemspec"]
   s.rdoc_options = ["--main", "README.rdoc"]
