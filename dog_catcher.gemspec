@@ -10,7 +10,7 @@ Gem::Specification.new do |s|
   s.authors  = ["Greg Borenstein"]
   s.files    = ["History.txt", 
 		"README.rdoc",
-                "Maifest.txt",
+                "Manifest.txt",
                 "bin/dog_catcher",
                 "lib/dog_catcher.rb",
 		"Rakefile", 
