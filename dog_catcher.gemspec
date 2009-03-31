@@ -1,7 +1,7 @@
 Gem::Specification.new do |s|
   s.name     = "dog_catcher"
-  s.version  = "0.1.0"
-  s.date     = "2008-12-30"
+  s.version  = "0.1.1"
+  s.date     = "2009-03-30"
   s.summary  = "Find and cleanly shut down any and all mongrels running on your system."
   s.email    = "greg@mfdz.com"
   s.homepage = "http://github.com/atduskgreg/dog_catcher"
