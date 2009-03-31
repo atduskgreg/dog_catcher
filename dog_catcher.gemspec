@@ -8,6 +8,7 @@ Gem::Specification.new do |s|
   s.description = "Find and cleanly shut down any and all mongrels running on your system."
   s.has_rdoc = true
   s.authors  = ["Greg Borenstein"]
+  s.executables = %w(dog_catcher)
   s.files    = ["History.txt", 
 		"README.rdoc",
                 "Manifest.txt",
